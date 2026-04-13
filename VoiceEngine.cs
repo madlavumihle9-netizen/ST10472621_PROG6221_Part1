@@ -3,6 +3,8 @@
 // We use PowerShell to play WAV files because it's reliable on school computers
 // This gives the bot a "voice" without needing complex AI libraries
 
+// Added AI voice functionality
+
 using System;
 using System.Diagnostics;
 using System.IO;
