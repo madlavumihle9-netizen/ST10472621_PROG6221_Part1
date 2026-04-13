@@ -3,6 +3,8 @@
 // We use auto-properties which is a C# feature that makes code cleaner
 // The user's name is stored here so we can personalize responses
 
+// Added user input validation
+
 namespace MizzBox
 {
     // User class - represents a person using our chatbot
