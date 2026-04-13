@@ -3,6 +3,8 @@
 // ASCII art makes the console application look more professional and engaging
 // We use the @ symbol for multi-line strings in C#
 
+// Added ASCII art display
+
 using System;
 
 namespace MizzBox
